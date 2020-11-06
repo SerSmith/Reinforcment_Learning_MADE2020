@@ -123,3 +123,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# vent
+Hw1/rl1/*
+
+# vscode
+*.vscode
